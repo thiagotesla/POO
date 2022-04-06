@@ -44,7 +44,7 @@ Para entendermos essa característica, vamos imaginar uma família: a criança, 
 
 <table><tr><td align='justify'>
 <h2 align="center"><p>POLIMORFISMO</p>
-<p>Alterrar o funcionamento interno de um método herdado de um objeto pai</p>
+<p>Alterar o funcionamento interno de um método herdado de um objeto pai</p>
 </h2>
 Outro ponto essencial na programação orientada a objetos é o chamado polimorfismo. Na natureza, vemos animais que são capazes de alterar sua forma conforme a necessidade, e é dessa ideia que vem o polimorfismo na orientação a objetos. Como sabemos, os objetos filhos herdam as características e ações de seus “ancestrais”. Entretanto, em alguns casos, é necessário que as ações para um mesmo método seja diferente. Em outras palavras, o polimorfismo consiste na alteração do funcionamento interno de um método herdado de um objeto pai.
 
