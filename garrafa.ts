@@ -3,6 +3,8 @@ class Garrafa {
     largura: number;
     capacidade: number;
 
+    private _total: number = 0;
+
     constructor(
         altura: number,
         largura: number,
@@ -15,4 +17,8 @@ class Garrafa {
 
     abrir() { }
     fechar() { }
+    encher(){
+        while(this._total < this.capacidade)
+            this._total++;
+    }
 }
