@@ -6,4 +6,9 @@ public class Garrafa
 
     public void Abrir() { }
     public void Fechar() { }
+
+    private voide Encher(){
+        while(Total < Capacidade)
+            Total++;
+    }
 }
