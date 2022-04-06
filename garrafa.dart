@@ -4,5 +4,9 @@ class Garrafa{
     int comprimento = 0;
 
     void abrir() { }
-    void fechar() { }
+    void fechar() { }   
+    void encher(){
+        while(_total < capacidade)
+            _total++;
+    }
 }
