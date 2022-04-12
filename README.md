@@ -1,7 +1,6 @@
 <h1 align="center">PILARES DA PROGRAMAÇÃO ORIENTADA A OBJETOS - POO</h1> 
 <table><tr><td align='justify'>
 <h2 align="center"><p>ENCAPSULAMENTO</p>
- 
  <p>O processo de agrupar classes e funções dentro de um objeto</p>
 </h2> 
  
@@ -15,7 +14,6 @@ Para fazermos um paralelo com o que vemos no mundo real, temos o encapsulamento 
 
 <table><tr><td align='justify'>
 <h2 align="center"><p> ABSTRAÇÃO</p>
- 
  <p>Trata de esconder detalhes desnecessários ao processo como um todo</p>
 </h2>  
 
@@ -31,7 +29,6 @@ Por fim, a terceira parte é definirmos as ações que o objeto irá executar. E
 
 <table><tr><td align='justify'>
 <h2 align="center"><p>HERANÇA</p>
- 
  <p>Receber propriedades e métodos de outro objeto</p>
 </h2>
 
