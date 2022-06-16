@@ -4,7 +4,7 @@ class Garrafa {
     }
 }
 
-class Garrafatermica extends Garrafa {
+class GarrafaTermica extends Garrafa {
     finalide(){
         console.log("Manter a temperatura")
     }
